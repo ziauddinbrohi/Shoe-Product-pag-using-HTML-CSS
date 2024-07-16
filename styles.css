@@ -1,0 +1,18 @@
+.product-page{
+    height:370px;
+    width: 250px;
+    background-color: bisque;
+    border:4px solid black;
+}
+img{
+    padding-top:10px;
+}
+.discription{
+    height:80px;
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+.price{
+    font-size: larger;
+    padding-right:160px;
+}
